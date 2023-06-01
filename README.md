@@ -3,4 +3,5 @@
 Также не получилось сделать определение площади в compile-time
 
 Файл с тестами: SquareLibraryTests/UnitTest1.cs
+
 Файлы с классами фигур: SquareLibrary
