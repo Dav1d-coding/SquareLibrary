@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareLibrary", "SquareLibrary\SquareLibrary.csproj", "{13CAE325-55FD-4930-BB08-B78C705FB589}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareLibraryTests", "SquareLibraryTests\SquareLibraryTests.csproj", "{84385466-7761-4166-A27E-FDBFA8DDB0AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13CAE325-55FD-4930-BB08-B78C705FB589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13CAE325-55FD-4930-BB08-B78C705FB589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13CAE325-55FD-4930-BB08-B78C705FB589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13CAE325-55FD-4930-BB08-B78C705FB589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84385466-7761-4166-A27E-FDBFA8DDB0AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84385466-7761-4166-A27E-FDBFA8DDB0AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84385466-7761-4166-A27E-FDBFA8DDB0AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84385466-7761-4166-A27E-FDBFA8DDB0AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74A6619B-403A-433F-98F8-AF0827E943B5}
+	EndGlobalSection
+EndGlobal
